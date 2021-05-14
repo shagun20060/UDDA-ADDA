@@ -1,1 +1,2 @@
-# UDDA-ADDA
+# collisionAlgorithm
+Algorithm to detect collision between two objects
